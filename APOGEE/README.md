@@ -1,1 +1,0 @@
-APOGEE linelist. Source: https://zenodo.org/record/32629#.Vi0XBBCrSfS 
