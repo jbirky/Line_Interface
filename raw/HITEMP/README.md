@@ -1,0 +1,1 @@
+Lines from HITEMP database: ftp://cfa-ftp.harvard.edu/pub/HITEMP-2010/
